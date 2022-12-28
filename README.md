@@ -12,7 +12,7 @@ Actividad3: Realizar una modificación al Script de la Actividad1: Detección de
 colores para poder encontrar el color azul en la imagen siguiente: 'cubo'
 
 Actividad4: Realizar un script que permita leer/cargar la imagen siguiente:
-* Agregar contorno de color verde a ambas señales viales.
+* Agregar contorno de color a ambas señales viales.
 * Agregar texto de color verde con la leyenda “Alerta al conductor”
 
 Actividad5: Escribir un script Python que permita conectarse a una WEB CAM
